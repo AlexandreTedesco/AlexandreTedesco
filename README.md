@@ -13,7 +13,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Wagmi](https://wagmi.sh/logo.svg)
+![Wagmi](https://img.shields.io/badge/Wagmi-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white)
+
 
 ---
 
