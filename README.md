@@ -33,8 +33,7 @@
 ## 🎯 Fun Facts  
 🔹 Je suis toujours partant pour un challenge de code!  
 🔹 Mon premier projet était une plateforme de hackathon.  
-🔹 J'adore optimiser le code pour qu'il soit plus rapide et lisible.  
-🔹 J'ai déjà contribué à des projets open-source.
+🔹 J'ai déjà contribué à des projets open-source.  
 🔹 Ils parlent de moi [0xIntuition](https://x.com/0xIntuition/status/1915821794147144128)
 
 
