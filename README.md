@@ -35,6 +35,8 @@
 🔹 Mon premier projet était une plateforme de hackathon.  
 🔹 J'adore optimiser le code pour qu'il soit plus rapide et lisible.  
 🔹 J'ai déjà contribué à des projets open-source.
+🔹 [0xIntuition] parlent de moi (https://x.com/0xIntuition/status/1915821794147144128)
+
 
 ---
 
