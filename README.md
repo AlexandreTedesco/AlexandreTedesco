@@ -20,7 +20,7 @@
 ## 🌟 Mes Projets  
 | Projet | Description | Tech |
 |--------|------------|------|
-| [Graph visualisation - Intuition]([https://github.com/tonrepo](https://graph.i7n.thp-lab.org/)) | Ce projet est celui réalisé pour la validation de ma formation, c'est un graph permettant de visualiser les datas collectées par 0xIntuition, un projet web3 open source permettant de construire un graph de connaissance basé sur la confiance. | React, TypeScript |
+| [Graph_visualisation-Intuition](https://graph.i7n.thp-lab.org/) | Ce projet est celui réalisé pour la validation de ma formation, c'est un graph permettant de visualiser les datas collectées par 0xIntuition, un projet web3 open source permettant de construire un graph de connaissance basé sur la confiance. | React, TypeScript |
 | [Agent](https://agent-bossfighters.com/) | Projet open source sur lequel j'ai travaillé en sortie de formation pour me perfectionner. Proposer une plate-forme d'aide à la prise de décision pour les joueurs du jeu BossFighters et offrant des outils dédier au streamers afin d'animer leurs streams notamment via des tournois. Création d'un outils (utilisant 0xIntuition) donnant la possibilité au utilisateurs de fournir un avis sur le jeu et les joueurs et ainsi de construite un graph avec le jeu comme point centrale, ayant pour objectif de fournir au studio de dévelopement des données fiable sur lesquels se baser l'aidant à la prise de décission stratégique. | Ruby, React, PostgreSQL |
 
 ---
