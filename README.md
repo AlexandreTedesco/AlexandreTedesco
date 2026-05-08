@@ -27,10 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreTedesco&show_icons=true&theme=radical)
-
----
 
 ## 🌐 Web3 & Blockchain  
 💡 Passionné par le Web3, j'ai travaillé sur plusieurs projets liés à la blockchain. J'explore des technologies comme **Ethereum, Solidity et IPFS** pour créer des applications décentralisées (DApps).
